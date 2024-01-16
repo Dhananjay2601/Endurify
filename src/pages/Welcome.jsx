@@ -64,7 +64,9 @@ export default function WelcomePage() {
         <section>
           <h2>Features</h2>
           <ul>
-            <li>Custom challenge creation: Set the rules, define your pace.</li>
+            <li>
+              Custom challenges creation: Set the rules, define your pace.
+            </li>
             <li>
               Track your progress: See your growth over time with our analytics
               tools.
